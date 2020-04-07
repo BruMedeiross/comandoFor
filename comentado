@@ -8,7 +8,8 @@ for i in lista:
 #lê-se:       para cada item em lista 
 #comando-         imrpima ("eu amo"+ i)
 
-#o que deve fazer? comando
+
 #i representa cada item da lista
+#o que deve fazer? comando
 #comando imprimirá: eu amo vc 
                     eu amo minha mãe
