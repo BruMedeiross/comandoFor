@@ -1,0 +1,14 @@
+#COMANDO FOR
+
+lista = ["vc", "minha mãe"]
+
+for i in lista:
+	print("eu amo "+ i)
+
+#lê-se:       para cada item em lista 
+#comando-         imrpima ("eu amo"+ i)
+
+#o que deve fazer? comando
+#i representa cada item da lista
+#comando imprimirá: eu amo vc 
+                    eu amo minha mãe
